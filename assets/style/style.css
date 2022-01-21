@@ -211,7 +211,7 @@ button {
 
 .about .photo img {
     width: 100px;
-    border: 2px solid #65ff00;
+    border: 2px solid #374052;
     border-radius: 50%;
 }
 .about-left {
@@ -269,6 +269,7 @@ footer {
 }
 
 @media (max-width: 1025px) {
+    
     .cont-int {
         max-width: 700px;
     }
@@ -364,7 +365,7 @@ footer {
     }
     .about .photo img {
         width: 50px;
-        border: 2px solid #65ff00;
+        border: 2px solid #374052;
         border-radius: 50%;
     }
     .about-left {
