@@ -402,6 +402,15 @@ footer {
     }
 }
 @media (max-width: 425px) {
+    .left-banner h2{
+        font-size: 20px;
+    }
+    .left-banner h1{
+        font-size: 25px;
+    }
+    .left-banner .curr {
+        margin-left: 60px;
+    }
     .cont-int{
         padding: 10px;
     }
