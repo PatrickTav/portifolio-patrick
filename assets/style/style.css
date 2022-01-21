@@ -360,7 +360,7 @@ footer {
         font-weight: 500;
     }
     .about-right p {
-        font-size: 10px;
+        font-size: 8px;
         margin-top: 5px ;
     }
     .about .photo img {
@@ -371,6 +371,7 @@ footer {
     .about-left {
         margin-top: 50px;
         padding-right: 20px;
+        font-size: 10px;
     }
 
     .skills h2,
