@@ -9,7 +9,7 @@ Mostrar para os recrutadores e empresas meus projetos no ar para que vejam meu d
 
 
 ### Links
-- Live Site URL: [Clique e veja online](https://patricktav.github.io/nft-preview-card-challeng/)
+- Live Site URL: [Clique e veja online](https://patricktav.github.io/portifolio-patrick/)
 
 
 ### Criado com
